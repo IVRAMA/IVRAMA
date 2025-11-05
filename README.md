@@ -42,9 +42,9 @@ Currently, I’m developing and showcasing projects in **Snowflake**, **dbt**, a
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chandra-yourlinkedinid/)
-- 📧 chandrayourmail@email.com  
-- 🌐 [My Resume & Portfolio](https://github.com/chandrasgithub/portfolio-index)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ramachansraiv/)
+- 📧 iv.ramachandra@gmail.com  
+- 🌐 [My Resume & Portfolio](https://github.com/ramachandraiv/portfolio-index)
 
 ---
 
