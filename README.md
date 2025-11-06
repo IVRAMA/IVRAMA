@@ -44,7 +44,7 @@ Currently, I’m developing and showcasing projects in **Snowflake**, **dbt**, a
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramachansraiv/)
 - 📧 iv.ramachandra@gmail.com  
-- 🌐 [My Resume & Portfolio](https://github.com/ramachandraiv/portfolio-index)
+- 🌐 [My Resume & Portfolio](https://github.com/IVRAMA/IVRAMA/blob/main/My%20New%20Resume.pdf)
 
 ---
 
