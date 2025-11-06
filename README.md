@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Chandra
+# 👋 Hi, I'm Ram
 
 🎯 **Data Engineer | Snowflake Certified | dbt Practitioner**
 
