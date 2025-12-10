@@ -25,8 +25,6 @@ Currently, I’m developing and showcasing projects in **Snowflake**, **dbt**, a
 |----------|--------------|-------------|
 | 🩺 [dbt-healthcare-analytics](https://github.com/IVRAMA/Healthcare_Analytics) | End-to-end dbt modeling on a healthcare dataset | dbt • Snowflake • SQL |
 | 🛒 [Synthea- FHIR-Bundle-Json-Project](https://github.com/IVRAMA/synthea-healthcare-data-engineering) | RawJson → Snowflake data pipeline with Streams, Tasks, Snowpipe | Snowflake • AWS • Python |
-| 📊 [dbt-snowflake-dashboard](https://github.com/chandrasgithub/dbt-snowflake-dashboard) | Streamlit dashboard powered by Snowflake and dbt models | dbt • Streamlit • Plotly |
-| 🧩 [data-modeling-with-snowflake](https://github.com/chandrasgithub/data-modeling-with-snowflake) | Data modeling exercises based on real-world patterns | Snowflake • SQL • ERDs |
 
 ---
 
