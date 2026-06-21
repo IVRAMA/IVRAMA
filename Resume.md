@@ -1,5 +1,5 @@
 # Rama Chandra I.V.
-Hyderabad / Remote | +91-9573393279 | [mail] (iv.ramachandra@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ramachandraiv/) | GitHub
+Hyderabad / Remote | +91-9573393279 | [mail](iv.ramachandra@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ramachandraiv/) | GitHub
 
 ## Data Architect | Snowflake | dbt | Healthcare Analytics
 SnowPro Core certified data professional with 26+ years of overall IT experience, including 8+ years in data architecture, data modeling, analytics engineering, and cloud data platforms. Strong experience designing Snowflake- and dbt-based ELT architectures, healthcare analytics models, and semi-structured data pipelines for enterprise reporting and self-service analytics. Proven track record in performance optimization, incremental processing, data quality validation, and stakeholder-facing solution design across healthcare and analytics-heavy environments.
